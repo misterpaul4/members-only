@@ -13,10 +13,11 @@
  *= require_tree .
  *= require_self
  */
- body {
-   padding: 0;
-   margin: 0;
- }
+
+body {
+  padding: 0;
+  margin: 0;
+}
 
 .container {
   width: 80%;
@@ -33,7 +34,7 @@
 
 .post-section > div {
   border: 1px solid #eee;
-  padding: .5em 1.5em;
+  padding: 0.5em 1.5em;
   margin: 0 0 1em 0;
   background: #eee;
   font-size: 16px;
@@ -70,7 +71,7 @@
   text-decoration: none;
   background: black;
   color: white;
-  padding: .8em 1.5em;
+  padding: 0.8em 1.5em;
   display: inline-block;
   border-radius: 4px;
   font-size: 16px;
@@ -88,7 +89,7 @@ label {
 
 input {
   height: 40px;
-  margin: .5em .5em 0 0;
+  margin: 0.5em 0.5em 0 0;
 }
 
 .btn {
