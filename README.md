@@ -28,6 +28,7 @@
 - Twitter: [@paulajuze](https://twitter.com/paulajuze)
 - Linkedin: [Chukwuebuka Paul Ajuizeogu](https://www.linkedin.com/in/chukwuebuka-paul-ajuizeogu/)
 <br />
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
