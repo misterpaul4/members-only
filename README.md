@@ -1,10 +1,11 @@
 # members-only
 > We were tasked with building an exclusive clubhouse where members can write embarrassing posts about non-members. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story and wonder who wrote it.
 <br />
+
 ## Built With
-* Ruby
-* Ruby on Rails
-* HTML & CSS
+- Ruby
+- Ruby on Rails
+- HTML & CSS
 <br />
 
 ## Getting Started
